@@ -1,3 +1,5 @@
+//Converting number to English words using Stack
+//only numbers upto 9 digits can be converted in this code
 #include<stdio.h>
 #include<conio.h>
 #include<stdlib.h>
