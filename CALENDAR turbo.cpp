@@ -1,3 +1,5 @@
+//To print calendar of a particular year upto to given months
+//This also prints few of the important days of the month(EG.Independence day)
 #include<iostream.h>
 #include<conio.h>
 #include<stdlib.h>
